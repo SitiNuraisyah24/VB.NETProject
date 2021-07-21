@@ -1,0 +1,13 @@
+C:\Users\izzah\source\repos\formone\bin\Debug\projectdb.accdb
+C:\Users\izzah\source\repos\formone\bin\Debug\formone.exe.config
+C:\Users\izzah\source\repos\formone\bin\Debug\formone.exe
+C:\Users\izzah\source\repos\formone\bin\Debug\formone.pdb
+C:\Users\izzah\source\repos\formone\bin\Debug\formone.xml
+C:\Users\izzah\source\repos\formone\obj\Debug\formone.vbprojAssemblyReference.cache
+C:\Users\izzah\source\repos\formone\obj\Debug\formone.Form1.resources
+C:\Users\izzah\source\repos\formone\obj\Debug\formone.Resources.resources
+C:\Users\izzah\source\repos\formone\obj\Debug\formone.vbproj.GenerateResource.cache
+C:\Users\izzah\source\repos\formone\obj\Debug\formone.vbproj.CoreCompileInputs.cache
+C:\Users\izzah\source\repos\formone\obj\Debug\formone.exe
+C:\Users\izzah\source\repos\formone\obj\Debug\formone.xml
+C:\Users\izzah\source\repos\formone\obj\Debug\formone.pdb

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CSC301\CSC301 GROUP PROJECT\BIM Objective\bin\Debug\projectdb.accdb
+C:\Users\user\Desktop\CSC301\CSC301 GROUP PROJECT\BIM Objective\bin\Debug\formone.exe.config
+C:\Users\user\Desktop\CSC301\CSC301 GROUP PROJECT\BIM Objective\bin\Debug\formone.exe
+C:\Users\user\Desktop\CSC301\CSC301 GROUP PROJECT\BIM Objective\bin\Debug\formone.pdb
+C:\Users\user\Desktop\CSC301\CSC301 GROUP PROJECT\BIM Objective\bin\Debug\formone.xml
+C:\Users\user\Desktop\CSC301\CSC301 GROUP PROJECT\BIM Objective\obj\Debug\BIM Objective.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\CSC301\CSC301 GROUP PROJECT\BIM Objective\obj\Debug\formone.Form1.resources
+C:\Users\user\Desktop\CSC301\CSC301 GROUP PROJECT\BIM Objective\obj\Debug\formone.Resources.resources
+C:\Users\user\Desktop\CSC301\CSC301 GROUP PROJECT\BIM Objective\obj\Debug\BIM Objective.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\CSC301\CSC301 GROUP PROJECT\BIM Objective\obj\Debug\BIM Objective.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CSC301\CSC301 GROUP PROJECT\BIM Objective\obj\Debug\formone.exe
+C:\Users\user\Desktop\CSC301\CSC301 GROUP PROJECT\BIM Objective\obj\Debug\formone.xml
+C:\Users\user\Desktop\CSC301\CSC301 GROUP PROJECT\BIM Objective\obj\Debug\formone.pdb
+C:\Users\user\Desktop\CSC301\CSC301 GROUP PROJECT\BIM Objective\obj\Debug\formone.Form2.resources
+C:\Users\user\Desktop\CSC301\CSC301 GROUP PROJECT\BIM Objective\obj\Debug\formone.Form3.resources
